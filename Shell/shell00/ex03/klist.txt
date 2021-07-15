@@ -1,0 +1,5 @@
+Credentials cache: API:5655
+        Principal: mlagares@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Jun 21 14:23:57 2021  Jun 22 00:22:15 2021  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
